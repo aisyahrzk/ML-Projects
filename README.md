@@ -1,5 +1,5 @@
 # ML-Projects 
-## Compilation of machine learning projects already done 
+## Compilation of machine learning projects done 
 
 **1. Classification**
 - Titanic Survival Prediction
